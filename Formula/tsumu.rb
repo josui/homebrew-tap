@@ -1,8 +1,8 @@
 class Tsumu < Formula
   desc "Local-first CLI bookmark manager"
   homepage "https://github.com/josui/tsumu-cli"
-  url "https://github.com/josui/tsumu-cli/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "68953a35e9804326d5fde3a2828bc3c983bcfe74616afde4fa9d42e373423f5e"
+  url "https://github.com/josui/tsumu-cli/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "d5efb9daa573dd2d18a4ef73427ec3bbfc5173944bc338a66e02d2179cd00146"
   license "MIT"
 
   depends_on "go" => :build
